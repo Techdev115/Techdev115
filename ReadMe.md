@@ -1,6 +1,6 @@
 <h1 align="center"> 😇Hi, I'm Agile Team Leader👋</h1>
-<h3 align="center">Senior FullStack Developer</h3>
-<h3 align="center">A passionate React/Next.js Frontend Developer.</h3>
+<h3 align="center">Senior Full-Stack Developer</h3>
+<h3 align="center">A passionate React/TypeScript/Next.js Frontend Engineer.</h3>
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Advance React/Next/Node.js**
+- 🔭 I’m currently working on **Advance React/TypeScript/Next/Node.js**
 
 - 🌱 I’m currently researching **About Development Direction of Web 4.0.**
 
@@ -19,7 +19,7 @@
 
 - 🤝Worked as Team Leader on Collaborative NetMeds Clone Project. 
 
-- 💬 Ask me about **React.js, Next.js, Typescript, Node.js, Tailwind CSS, javascript**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Tailwind CSS, JavaScript**
 
 - 📫 How to reach me **techdev92115@gmail.com**
 
