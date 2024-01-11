@@ -1,7 +1,7 @@
 <h1 align="center"> 😇Hi, I'm Agile Team Leader👋</h1>
 <h3 align="center">Senior Full-Stack Developer</h3>
 <h3 align="center">A passionate React/TypeScript/Next.js Frontend Engineer.</h3>
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<!-- <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
 
 
 
@@ -176,13 +176,13 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
 
 <p align="center">
 <img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/ibm_badges_credly.png">
-</p>
+</p> -->
 
 
 
